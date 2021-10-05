@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+
+# lists all the files and folders git should ignore if it's tracking project
+
 # dependencies
 /node_modules
 /.pnp
